@@ -42,7 +42,7 @@ function App() {
 
     try {
       const response = await axios.post<PredictionResult>(
-        "http://localhost:5000/upload",
+        "http://127.0.0.1:5000/upload",
         formData,
         {
           headers: {

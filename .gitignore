@@ -59,3 +59,5 @@ frontend/build/
 # TypeScript compiled files
 frontend/src/**/*.js
 frontend/src/**/*.js.map
+
+backend/uploads
